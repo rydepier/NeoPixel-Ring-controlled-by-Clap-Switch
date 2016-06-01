@@ -1,4 +1,8 @@
  /*********************************************************
+ * Using a clap switch to control the Adafruit buttoncycler sketch
+ * 
+ * Original sketch by Adafruit
+ * modified by Chris Rouse June 2016
  * 
  *********************************************************/
 
